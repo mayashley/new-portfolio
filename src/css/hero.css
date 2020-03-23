@@ -1,5 +1,6 @@
 .defaultHero {
-  min-height: calc(100vh - 0px);
+  /* min-height: calc(100vh - 0px); */
+  height: 100vh;
   background: url("../images/bgImg.jpg") center/cover no-repeat;
   display: flex;
   justify-content: center;
