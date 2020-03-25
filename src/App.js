@@ -3,7 +3,7 @@ import './App.css';
 import Hero from './components/Hero'
 import Banner from './components/Banner'
 import Layout from './components/Layout'
-
+// import Contact from './pages/Contact'
 
 function App() {
   return (
@@ -13,6 +13,7 @@ function App() {
 <Banner title="Hi, I'm Ashley" info="FRONT END DEVELOPER/ WEB DEVELOPER">
 </Banner>
 </Hero>
+{/* <Contact/> */}
 </Layout>
     </div>
 
